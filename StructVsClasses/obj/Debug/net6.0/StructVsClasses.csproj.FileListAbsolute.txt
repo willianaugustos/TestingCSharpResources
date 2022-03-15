@@ -1,0 +1,15 @@
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.csproj.AssemblyReference.cache
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.AssemblyInfoInputs.cache
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.AssemblyInfo.cs
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.csproj.CoreCompileInputs.cache
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\bin\Debug\net6.0\StructVsClasses.exe
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\bin\Debug\net6.0\StructVsClasses.deps.json
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\bin\Debug\net6.0\StructVsClasses.runtimeconfig.json
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\bin\Debug\net6.0\StructVsClasses.dll
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\bin\Debug\net6.0\StructVsClasses.pdb
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.dll
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\refint\StructVsClasses.dll
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.pdb
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\StructVsClasses.genruntimeconfig.cache
+C:\Users\WilliamSeverino\Projetos\TestingCSharpResources\StructVsClasses\obj\Debug\net6.0\ref\StructVsClasses.dll
